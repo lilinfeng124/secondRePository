@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("hello merge!\n");
+	printf("hello remote!\n");
 	return 0;
 }
